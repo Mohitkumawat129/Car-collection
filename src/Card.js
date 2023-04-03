@@ -1,5 +1,6 @@
 import React from "react";
-
+import Navbar from "./Navbar";
+import "./Style/index.css";
 function Card(props) {
   return (
     <>
